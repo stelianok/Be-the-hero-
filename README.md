@@ -1,8 +1,9 @@
 
-![Logo](https://github.com/stelianok/Be-the-hero-/blob/master/frontend/src/assets/logo.svg)
- 
+<p align="center">
+<img src="https://github.com/stelianok/Be-the-hero-/blob/master/frontend/src/assets/logo.svg" align="center" width="500" height="500"></img>
+</p>
 <h1 align="center">Be The Hero 🦸‍♂️🦸‍♀️</h1>
-> Be the Hero  permite que ONGs  que precisam de ajuda financeira se conectem com usuários dispostos a ajudar.
+<p align="center"> Be the Hero  permite que ONGs  que precisam de ajuda financeira se conectem com usuários dispostos a ajudar. </p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
