@@ -1,8 +1,8 @@
-<p align="center">
+
 ![Logo](https://github.com/stelianok/Be-the-hero-/blob/master/frontend/src/assets/logo.svg)
  
 # Be The hero
-</p>
+
 > Be the hero é um projeto fullstack desenvolvido utilizando Nodejs, React e React Native. 
 
 
