@@ -34,6 +34,11 @@ Esse foi um projeto que eu desenvolvi para demonstrar minhas habilidades como de
 ## Descrição
   Be the hero  permite que ONGs  que precisam de ajuda financeira se conectem com usuários dispostos a ajudar. Ongs cadastram casos em que a ong precisa de ajuda, e usuários podem ver esses casos e entrar em contato com a ONG através de email ou whatsapp, fornecidos pela própria ong.
 
+<p align="center">
+<img src="https://github.com/stelianok/Be-the-hero-/blob/master/frontend/src/assets/heroes.png" align="center" width="500" height="500"></img>
+</p>
+
+
 ## Instalação
 
 > É só utilizar o comando  *npm install* nas pastas backend,frontend e mobile:
