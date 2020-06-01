@@ -67,7 +67,7 @@ npm install
 ## Contato:
 
 Twitter:
-[@KN0wh3r3](https://twitter.com/KN0wh3r3)
+[@Steli4nok](https://twitter.com/Steli4nok)
 
 LinkedIn:
 [Kauã Alexandro Steliano](https://www.linkedin.com/in/kauã-steliano-107620181/)
